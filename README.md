@@ -1,4 +1,4 @@
-# ⚡️ Spark_Labs: Sentinel
+# ⚡️ Spark_Labs: Shelly Sentinel
 **Turn your Shelly BLU Button into a Secure Keypad.**
 *Current Release: v1.0 (BETA) | Target: Shelly Gen3 & Gen4*
 
