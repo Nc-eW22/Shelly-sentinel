@@ -8,9 +8,9 @@
 
 const CONFIG = {
   id: 0,              // ⚠️ Target Switch ID (Change if your light is on channel 1, 2, etc.)
-  slow_ms: 800,       // Speed of "Slow" toggle
-  fast_ms: 200,       // Speed of "Fast" toggle
-  pause_ms: 2000      // Pause between loops in Fail 3
+  slow_ms: 1000,       // Speed of "Slow" toggle
+  fast_ms: 700,       // Speed of "Fast" toggle
+  pause_ms: 3000      // Pause between loops in Fail 3
 };
 
 let STATE = { original: null, active: false, timer: null, loop_timer: null };
